@@ -1,0 +1,251 @@
+.jumbotron {
+    background: #018786 !important;
+    color: #FFF !important;
+    border-radius: 0px !important;
+    }
+    .jumbotron-sm { 
+    margin-top: 50px !important;
+    padding-top: 5px !important;
+    padding-bottom: 5px !important; 
+}
+    .jumbotron small {
+    color: #FFF !important;
+    text-shadow: 4px 4px 8px gray;
+    font-weight: bold !important;
+    }
+    .h1 small {
+    font-size: 24px !important;
+   
+    }
+.abc{
+    text-decoration: none !important;
+}
+.contact{
+    font-weight: bold !important;
+    
+    text-shadow: 2px 4px 6px gray !important;
+    
+    text-align: center !important;
+    font-size: 35px !important;
+}
+body{
+    font-family: 'Times New Roman', Times, serif !important;
+}
+
+.nav-link{
+    font-weight: bold !important;
+    color:#fff !important;
+    border-radius: 20px !important;
+    text-align: center !important;
+     margin: 2px 2px 2px 2px;
+}
+.nav-link:hover{
+    color:black !important;
+    background-color:white !important;
+}
+.fa-shopping-cart, .fa-user{
+    font-size: 22px !important;
+}
+.navbar{
+   background-color: #017A77 !important;
+  
+
+}
+.logo{
+   /* height: 40px !important;
+    width: 80px !important;*/
+    height: 50px !important;
+    width: 120px !important;
+}
+.btn{
+    background-color: #018786 !important;
+    font-weight: bold !important;
+    color: white !important;
+   margin-top: 10px !important;
+   justify-content: center !important;
+   border-color: #018786 !important;
+}
+.divtext{
+    text-shadow: 4px 4px 8px gray;
+    font-weight: bold !important;
+    
+}
+.maindiv{
+    margin-top: 20px !important;
+
+}
+.fa-truck, .fa-clock-o,.fa-phone-square,.fa-thumbs-o-up{
+    font-size: 45px; 
+   /* color:  #fff !important;*/
+    padding-top: 5px !important;
+    cursor:  pointer !important;
+    
+}
+.div1,.div2,.div3,.div4{
+    display: inline-block !important;
+    margin: 14px 14px 14px 14px !important;
+   box-shadow: 4px 4px 6px gray;
+    background-color: #018786 !important; 
+    width:340px !important; 
+    height: 70px !important;
+    
+}
+
+@media screen and (max-width: 600px){
+    .div1,.div2,.div3,.div4{
+        width: 100% !important;
+    }
+}
+.divheading{
+    position: relative !important;
+    top: 7px !important;
+    color:  #fff !important;
+    text-shadow: 4px 4px 10px black !important;
+    display: inline-block !important;
+
+}
+
+.follow{
+    margin-top: 70px !important;
+    color: #fff !important;
+    padding-bottom: 10px !important;
+    padding-top: 30px !important;
+    
+}
+.followheading{
+    padding-left: 20px !important;
+    text-shadow: 2px 3px 6px gray !important;
+}
+.fa-facebook-square{
+    padding-right: 10px !important;
+    
+    font-size: 20px !important;
+}
+.fa-instagram{
+    padding-right: 6px !important;
+    font-size: 20px !important;
+}
+.fa-youtube-square{
+    padding-right: 18px !important;
+    font-size: 20px !important;
+}
+.fa-twitter-square{
+    padding-right: 25px !important;
+    font-size: 20px !important;
+}
+li:hover{
+    color: teal !important;
+    cursor: pointer;
+}
+
+.yb{
+    position: relative;
+   left: 8px !important;
+}
+
+.ig{
+    position: relative;
+    left: 18px !important;
+}
+.fb{
+    position: relative;
+    left: 12px !important;  
+}
+
+
+.footer{
+    width: 100% !important;
+    background-color: #018786 !important;
+    color: #fff !important;
+    height: 55px !important;
+   
+}
+.footer1{
+    text-align: center !important;
+    align-items: center !important;
+    padding: 12px  12px !important;
+}
+.proheading{
+    font-weight: bold !important;
+    color: #018786 !important;
+    text-shadow: 2px 4px 6px gray !important;
+    padding-top: 15px !important;
+    text-align: center !important;
+    font-size: 50px !important;
+}
+.cardimg{
+    /*height: 200px !important;
+    width: 200px !important;*/
+    margin-top: 15px !important;
+   
+    
+}
+.card{
+    margin-top: 25px !important;
+    /*border-color:  #018786 !important;*/
+    box-shadow: 4px 5px 20px grey !important;
+   /* width: 220px !important;
+    height: 370px !important;*/
+   
+   width: 22em !important;
+   height: 32em !important;
+    
+
+}
+
+.flexdiv{
+    display: flex !important;
+    justify-content: center !important;
+}
+.card-text{
+    position: relative !important;
+    bottom: 10px !important;
+    left: 5px !important;
+}
+.btn-card{
+position: relative !important;
+bottom: 15px !important;
+}
+.btn-toolbar{
+    display: flex !important;
+    justify-content: center !important;
+}
+
+.card1{
+    margin-top: 25px !important;
+    box-shadow: 4px 5px 20px grey !important;
+    
+   width: 15em !important;
+   height: 25em !important;
+
+}
+
+.bestsellerheading{
+    background-color: #018786 !important;
+    text-align: center !important;
+    color: white !important;
+   
+    margin-top: 25px !important;
+}
+.soon{
+    margin-top: 35px !important;
+}
+.sooncard{
+    margin-top: 25px !important;
+    /*border-color:  #018786 !important;*/
+    box-shadow: 4px 4px 5px grey !important;
+   /* width: 220px !important;
+    height: 370px !important;*/
+   
+   width: 22em !important;
+   height: 18em !important;
+    
+}
+.mylink{
+    text-decoration: none !important;
+    color: white !important;
+   
+}
+.mybtn:hover{
+    color: black !important;
+}
